@@ -15,4 +15,3 @@ jobs:
         with:
           max_post_count: "100"
           feed_list: "https://www.p3r.one/feed/"
-          $description: default

@@ -1,6 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
-- [Object and Block Storage: How They Fearlessly Differ?](https://www.p3r.one/object-and-block-storage/)
+- [Object and Block Storage: How They Differ?](https://www.p3r.one/object-and-block-storage/)
 - [Helm: Why DevOps Engineers Love it?](https://www.p3r.one/helm-package-manager-kubernetes/)
 - [180 Million Orders: The Dominos Breach and what you should learn from it](https://www.p3r.one/dominos-india-breach/)
 - [Portainer vs Mirantis: My Experience in 2021](https://www.p3r.one/portainer-vs-mirantis-my-experience-in-2021/)

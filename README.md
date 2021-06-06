@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Goal Setting is Bullshit: Try this Instead](https://www.p3r.one/goal-setting-is-bullshit/)
 - [Object and Block Storage: How They Differ?](https://www.p3r.one/object-and-block-storage/)
 - [Helm: Why DevOps Engineers Love it?](https://www.p3r.one/helm-package-manager-kubernetes/)
 - [180 Million Orders: The Dominos Breach and what you should learn from it](https://www.p3r.one/dominos-india-breach/)

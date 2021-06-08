@@ -10,7 +10,7 @@
 - [Proxy Servers: The Captivate Shield](https://www.p3r.one/forward-reverse-proxy-servers/)
 - [Service Mesh: The Gateway to Happiness](https://www.p3r.one/service-mesh/)
 - [CNCF: Forefront of the Cloud Native Landscape](https://www.p3r.one/cncf-cloud-native-computing-foundation/)
-- [Kubernetes: Everything You Need to Know about it](https://www.p3r.one/kubernetes-from-google/)
+- [Kubernetes: The Ultimate Guide](https://www.p3r.one/kubernetes-from-google/)
 - [Turbo-charge with Container Orchestration](https://www.p3r.one/container-orchestration/)
 - [How to run GitLab in Kubernetes with an existing cert-manager](https://www.p3r.one/how-to-run-gitlab-in-kubernetes-with-an-existing-cert-manager/)
 - [Unikernel Vs Container Vs VMs: Here is what you should use](https://www.p3r.one/unikernel-vs-container-vs-vms/)

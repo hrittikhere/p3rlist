@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Observability: Your Eyes in Cloud](https://www.p3r.one/observability-simplified/)
 - [Cloud Firewalls Simplified: Beginners  Edition](https://www.p3r.one/cloud-firewalls-simplified/)
 - [Life, DevOps and Goals: A Guide on why Goal setting fails and Systems don’t](https://www.p3r.one/goal-setting-is-bullshit/)
 - [Object and Block Storage: How They Differ?](https://www.p3r.one/object-and-block-storage/)

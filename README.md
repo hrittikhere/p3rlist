@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [On Charming Engineering Culture: My Notes](https://www.p3r.one/on-engineering-culture/)
 - [Knative: Serverless on Kubernetes](https://www.p3r.one/knative-serverless-on-kubernetes/)
 - [Observability: Your Eyes in Cloud](https://www.p3r.one/observability-simplified/)
 - [Cloud Firewalls Simplified: Beginners  Edition](https://www.p3r.one/cloud-firewalls-simplified/)

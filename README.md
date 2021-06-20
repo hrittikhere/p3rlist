@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Chaos Engineering: Not so Chaotic](https://www.p3r.one/chaos-engineering/)
 - [On Charming Engineering Culture: My Notes](https://www.p3r.one/on-engineering-culture/)
 - [Knative: Serverless on Kubernetes](https://www.p3r.one/knative-serverless-on-kubernetes/)
 - [Observability: Your Eyes in Cloud](https://www.p3r.one/observability-simplified/)

@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in Contour 1.17.0?](https://www.p3r.one/contour-1-17-0/)
 - [What’s new in Prometheus 2.28?](https://www.p3r.one/prometheus-2-28/)
 - [GPT-J: GPT-3 Democratized](https://www.p3r.one/gpt-j/)
 - [What’s new in Portainer CE 2.6.0?](https://www.p3r.one/portainer-v260/)

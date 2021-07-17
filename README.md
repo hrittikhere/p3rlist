@@ -1,5 +1,7 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in Fluentbit v1.8.1?](https://www.p3r.one/whats-new-in-fluentbit-v1-8-1/)
+- [What’s new in Envoy v1.19.0?](https://www.p3r.one/whats-new-in-envoy-v1-19-0/)
 - [What’s new in Vitess 10?](https://www.p3r.one/whats-new-in-vitess-10/)
 - [What’s new in Contour 1.17.0?](https://www.p3r.one/contour-1-17-0/)
 - [What’s new in Prometheus 2.28?](https://www.p3r.one/prometheus-2-28/)

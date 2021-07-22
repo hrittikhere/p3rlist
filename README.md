@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [k8s vs k3s: The Comprehensive Difference](https://www.p3r.one/k8s-vs-k3s/)
 - [What’s new in Fluentbit v1.8.1?](https://www.p3r.one/whats-new-in-fluentbit-v1-8-1/)
 - [What’s new in Envoy v1.19.0?](https://www.p3r.one/whats-new-in-envoy-v1-19-0/)
 - [What’s new in Vitess 10?](https://www.p3r.one/whats-new-in-vitess-10/)
@@ -8,7 +9,6 @@
 - [GPT-J: GPT-3 Democratized](https://www.p3r.one/gpt-j/)
 - [What’s new in Portainer CE 2.6.0?](https://www.p3r.one/portainer-v260/)
 - [What’s new in Harbor v2.3.0?](https://www.p3r.one/harbor-v230/)
-- [k8s vs k3s: The Comprehensive Difference](https://www.p3r.one/k8s-vs-k3s/)
 - [What’s new in Kubernetes v1.21.2?](https://www.p3r.one/kubernetes-v1-21-2/)
 - [Chaos Engineering: Not so Chaotic](https://www.p3r.one/chaos-engineering/)
 - [On Charming Engineering Culture: My Notes](https://www.p3r.one/on-engineering-culture/)

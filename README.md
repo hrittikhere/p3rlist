@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in Gitlab 14? 🦊](https://www.p3r.one/whats-new-in-gitlab-14/)
 - [k8s vs k3s: The Comprehensive Difference](https://www.p3r.one/k8s-vs-k3s/)
 - [What’s new in Fluentbit v1.8.1?](https://www.p3r.one/whats-new-in-fluentbit-v1-8-1/)
 - [What’s new in Envoy v1.19.0?](https://www.p3r.one/whats-new-in-envoy-v1-19-0/)

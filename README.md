@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [How To Install Docker on Ubuntu 20.04?](https://www.p3r.one/install-docker-on-ubuntu-20-04/)
 - [Answer to Everything isn’t 42, it’s Family](https://www.p3r.one/answer-to-everything/)
 - [What’s new in Gitlab 14? 🦊](https://www.p3r.one/whats-new-in-gitlab-14/)
 - [k8s vs k3s: The Comprehensive Difference](https://www.p3r.one/k8s-vs-k3s/)

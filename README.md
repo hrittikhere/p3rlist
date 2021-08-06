@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [You’re Invited to the Cloud Native Meetup Saar #3 – August 18, 2021](https://www.p3r.one/cloud-native-meetup-saar-3-invite/)
 - [Cloud Foundry Simplified](https://www.p3r.one/cloud-foundry-simplified/)
 - [How To Install Docker on Ubuntu 20.04?](https://www.p3r.one/install-docker-on-ubuntu-20-04/)
 - [Answer to Everything isn’t 42, it’s Family](https://www.p3r.one/answer-to-everything/)

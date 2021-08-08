@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Git Constructive Updates: Switch and Restore](https://www.p3r.one/git-switch-and-restore/)
 - [You’re Invited to the Cloud Native Meetup Saar #3 – August 18, 2021](https://www.p3r.one/cloud-native-meetup-saar-3-invite/)
 - [Cloud Foundry Simplified](https://www.p3r.one/cloud-foundry-simplified/)
 - [How To Install Docker on Ubuntu 20.04?](https://www.p3r.one/install-docker-on-ubuntu-20-04/)

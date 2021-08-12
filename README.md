@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in Kubernetes 1.22?](https://www.p3r.one/kubernetes-1-22-notes/)
 - [What’s new in KEDA 2.4.0?](https://www.p3r.one/keda-2-4-release/)
 - [Git Constructive Updates: Switch and Restore](https://www.p3r.one/git-switch-and-restore/)
 - [You’re Invited to the Cloud Native Meetup Saar #3 – August 18, 2021](https://www.p3r.one/cloud-native-meetup-saar-3-invite/)

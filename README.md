@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in Artifact Hub v1.1.0/1?](https://www.p3r.one/artifact-hub-v1-changelogs/)
 - [What’s new in Prometheus v2.29.0?](https://www.p3r.one/prometheus-v2-29-0/)
 - [What’s new in Cortex v1.10.0?](https://www.p3r.one/cortex-v1-10-update/)
 - [What’s new in Kubernetes 1.22?](https://www.p3r.one/kubernetes-1-22-notes/)

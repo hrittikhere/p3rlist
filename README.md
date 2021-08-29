@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [What’s New in Flux 1.24.0?](https://www.p3r.one/whats-new-in-flux-1-24/)
 - [Event Driven Architecture Demystified (For Pros)](https://www.p3r.one/event-driven-architecture/)
 - [What’s new in Istio v1.11?](https://www.p3r.one/whats-new-in-istio-v1-11/)
 - [What’s new in Artifact Hub v1.1.0/1?](https://www.p3r.one/artifact-hub-v1-changelogs/)

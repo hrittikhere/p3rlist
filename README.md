@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Event Driven Architecture Demystified (For Pros)](https://www.p3r.one/event-driven-architecture/)
 - [What’s new in Istio v1.11?](https://www.p3r.one/whats-new-in-istio-v1-11/)
 - [What’s new in Artifact Hub v1.1.0/1?](https://www.p3r.one/artifact-hub-v1-changelogs/)
 - [What’s new in Prometheus v2.29.0?](https://www.p3r.one/prometheus-v2-29-0/)

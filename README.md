@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Portainer Ambassador Series ft. Fabian Peter](https://www.p3r.one/portainer-ambassador-series-ft-fabian-peter/)
 - [What’s new in Longhorn v1.2.0?](https://www.p3r.one/whats-new-in-longhorn-v1-2-0/)
 - [Kubernetes Stateful Friend: What’s more to etcd?](https://www.p3r.one/etcd-and-kubernetes/)
 - [What’s New in Flux 1.24.0?](https://www.p3r.one/whats-new-in-flux-1-24/)

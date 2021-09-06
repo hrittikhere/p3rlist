@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Recap of the Cloud Native Meetup Saar #3](https://www.p3r.one/recap-of-the-cloud-native-meetup-saar-3/)
 - [Portainer Ambassador Series ft. Fabian Peter](https://www.p3r.one/portainer-ambassador-series-ft-fabian-peter/)
 - [What’s new in Longhorn v1.2.0?](https://www.p3r.one/whats-new-in-longhorn-v1-2-0/)
 - [Kubernetes Stateful Friend: What’s more to etcd?](https://www.p3r.one/etcd-and-kubernetes/)

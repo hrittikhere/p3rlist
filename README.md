@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Linkerd: Looming on Service Meshes](https://www.p3r.one/linkerd-service-mesh/)
 - [What’s new in Flux v0.17.0?](https://www.p3r.one/flux-v0-17-0/)
 - [What’s new in Portainer v2.7.0 BE?](https://www.p3r.one/portainer-v2-7-0/)
 - [DVC (Git For Data): A Complete Intro](https://www.p3r.one/dvc-git-for-data/)

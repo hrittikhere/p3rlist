@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in TikV v5.0.4?](https://www.p3r.one/whats-new-in-tikv-v5-0-4/)
 - [What’s new in Keptn v0.9.0?](https://www.p3r.one/whats-new-in-keptn-v0-9-0/)
 - [What’s New in Lens 5.2?](https://www.p3r.one/whats-new-in-lens-5-2/)
 - [Linkerd: Looming on Service Meshes](https://www.p3r.one/linkerd-service-mesh/)

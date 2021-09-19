@@ -1,5 +1,7 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Prometheus: As Simple As Possible](https://www.p3r.one/prometheus-simplified/)
+- [Bootstrap K3S Data: For Beginners](https://www.p3r.one/k3s-bootstrap-data/)
 - [What’s new in Ingress-Nginx Controller v1.0.0?](https://www.p3r.one/whats-new-in-ingress-nginx-controller-v1-0-0/)
 - [Getting gRPC Right: An Introduction and Review](https://www.p3r.one/what-is-grpc/)
 - [What’s new in TikV v5.0.4?](https://www.p3r.one/whats-new-in-tikv-v5-0-4/)

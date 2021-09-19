@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in Ingress-Nginx Controller v1.0.0?](https://www.p3r.one/whats-new-in-ingress-nginx-controller-v1-0-0/)
 - [Getting gRPC Right: An Introduction and Review](https://www.p3r.one/what-is-grpc/)
 - [What’s new in TikV v5.0.4?](https://www.p3r.one/whats-new-in-tikv-v5-0-4/)
 - [What’s new in Keptn v0.9.0?](https://www.p3r.one/whats-new-in-keptn-v0-9-0/)

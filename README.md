@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in Jaeger v1.26.0?](https://www.p3r.one/whats-new-in-jaeger-v1-26-0/)
 - [Prometheus: As Simple As Possible](https://www.p3r.one/prometheus-simplified/)
 - [Bootstrap K3S Data: For Beginners](https://www.p3r.one/k3s-bootstrap-data/)
 - [What’s new in Ingress-Nginx Controller v1.0.0?](https://www.p3r.one/whats-new-in-ingress-nginx-controller-v1-0-0/)

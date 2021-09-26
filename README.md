@@ -1,5 +1,6 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Courting Apache Kafka: A Beginner’s Guide To Mastering The Platform](https://www.p3r.one/apache-kafka/)
 - [How to Install Portainer on Remote Server ft. VSCode?](https://www.p3r.one/install-portainer-on-vm-vscode/)
 - [What’s new in Python-Tuf v0.18.0?](https://www.p3r.one/whats-new-in-python-tuf-v0-18-0/)
 - [What’s new in Envoyproxy v1.19.1?](https://www.p3r.one/whats-new-in-envoyproxy-v1-19-1/)

@@ -1,5 +1,11 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Operating On OpenTracing: A Beginner’s Guide](https://www.p3r.one/opentracing/)
+- [Rook: Cloud-Native Storage Orchestration](https://www.p3r.one/rook-cncf/)
+- [What’s new in Kuma v1.3.0?](https://www.p3r.one/whats-new-in-kuma-v1-3-0/)
+- [What’s new in Istio v1.11.3?](https://www.p3r.one/whats-new-in-istio-v1-11-3/)
+- [Delete namespace stuck in Terminating State](https://www.p3r.one/delete-terminating-namespace/)
+- [What’s new in Traefik v2.5.3?](https://www.p3r.one/whats-new-in-traefik-v2-5-3/)
 - [What’s new in Prometheus v2.30?](https://www.p3r.one/whats-new-in-prometheus-v2-30/)
 - [Strimzi : Master Apache Kafka on Kubernetes](https://www.p3r.one/strimzi-kafka-on-kubernetes/)
 - [Courting Apache Kafka: A Beginner’s Guide To Mastering The Platform](https://www.p3r.one/apache-kafka/)
@@ -94,10 +100,4 @@
 - [4 things to keep quiet about](https://www.p3r.one/4-things-to-keep-quiet-about/)
 - [Using Terraform with VMware](https://www.p3r.one/using-terraform-with-vmware/)
 - [Why networking is so important](https://www.p3r.one/why-networking-is-so-important/)
-- [Release early, release often](https://www.p3r.one/release-early-release-often/)
-- [How to write](https://www.p3r.one/how-to-write/)
-- [The Impostor’s Advantage](https://www.p3r.one/the-impostors-advantage/)
-- [It’s not your job to write requirements](https://www.p3r.one/its-not-your-job-to-write-requirements/)
-- [apollo v2 is out](https://www.p3r.one/apollo-v2-0-0/)
-- [What is DevOps?](https://www.p3r.one/what-is-devops/)
 <!-- BLOG-POST-LIST:END -->

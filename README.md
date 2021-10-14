@@ -1,5 +1,8 @@
 ### 100 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [How to Delete all Pods in ReplicaSet](https://www.p3r.one/delete-all-pods-in-replicaset/)
+- [Falco: A Beginner’s Guide](https://www.p3r.one/falco/)
+- [Why DevOps Engineers Love Fluentd?](https://www.p3r.one/fluentd/)
 - [Operating On OpenTracing: A Beginner’s Guide](https://www.p3r.one/opentracing/)
 - [Rook: Cloud-Native Storage Orchestration](https://www.p3r.one/rook-cncf/)
 - [What’s new in Kuma v1.3.0?](https://www.p3r.one/whats-new-in-kuma-v1-3-0/)
@@ -97,7 +100,4 @@
 - [Seven things successful people say No to](https://www.p3r.one/seven-things-successful-people-say-no-to/)
 - [The Full-Stack Developer’s Roadmap Part 1: Frontend](https://www.p3r.one/the-full-stack-developers-roadmap-part-1-frontend/)
 - [How to become a Certified Kubernetes Application Developer in 2020](https://www.p3r.one/how-to-become-a-certified-kubernetes-application-developer-in-2020/)
-- [4 things to keep quiet about](https://www.p3r.one/4-things-to-keep-quiet-about/)
-- [Using Terraform with VMware](https://www.p3r.one/using-terraform-with-vmware/)
-- [Why networking is so important](https://www.p3r.one/why-networking-is-so-important/)
 <!-- BLOG-POST-LIST:END -->

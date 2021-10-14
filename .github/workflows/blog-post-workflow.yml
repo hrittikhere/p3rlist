@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "100"
+          max_post_count: "200"
           feed_list: "https://www.p3r.one/feed/"

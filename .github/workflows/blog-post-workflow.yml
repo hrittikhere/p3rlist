@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "200"
-          feed_list: "https://www.p3r.one/feed/"
+          feed_list: "https://www.p3r.one/author/hrittik/feed/"
